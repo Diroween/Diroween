@@ -10,8 +10,6 @@
 - 💾 **Bases de Datos Relacionales:** MySQL, SQLite, Oracle Database
 - 🗄️ **Bases de Datos No Relacionales:** MongoDB, Firebase, BaseX, db4o
 
-## ⚙️ IDEs y herramientas
-
 ## ⚙️ IDEs y Herramientas
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
